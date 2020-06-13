@@ -1,6 +1,7 @@
 package app;
 
 import service.consumer.ConsumerServiceImpl;
+import service.filters.CORSFilter;
 import service.lookup.LookupServiceImpl;
 
 import java.util.HashSet;
@@ -23,6 +24,13 @@ public class OrderServices extends Application {
         this.consumerService = new ConsumerServiceImpl();
         singletons.add(lookupService);
         singletons.add(consumerService);
+    }
+
+    @Override
+    public Set<Class<?>> getClasses() {
+        final Set<Class<?>> resources = new HashSet<Class<?>>();
+        resources.add(CORSFilter.class);
+        return resources;
     }
 
     @Override

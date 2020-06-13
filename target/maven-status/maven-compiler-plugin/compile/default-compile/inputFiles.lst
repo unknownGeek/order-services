@@ -9,12 +9,15 @@
 /Users/h0k00sn/IdeaProjects/RestFulWebApis/src/main/java/service/wrappers/MapAdapter.java
 /Users/h0k00sn/IdeaProjects/RestFulWebApis/src/main/java/service/wrappers/ServiceResponseBuilder.java
 /Users/h0k00sn/IdeaProjects/RestFulWebApis/src/main/java/service/lookup/LookupServiceImpl.java
+/Users/h0k00sn/IdeaProjects/RestFulWebApis/src/main/java/service/filters/CORSFilter.java
 /Users/h0k00sn/IdeaProjects/RestFulWebApis/src/main/java/service/model/Order.java
 /Users/h0k00sn/IdeaProjects/RestFulWebApis/src/main/java/service/wrappers/ErrorSeverity.java
 /Users/h0k00sn/IdeaProjects/RestFulWebApis/src/main/java/service/wrappers/Cause.java
 /Users/h0k00sn/IdeaProjects/RestFulWebApis/src/main/java/service/wrappers/ServiceResponse.java
+/Users/h0k00sn/IdeaProjects/RestFulWebApis/src/main/java/service/jdbc/JDBCConnectionManager.java
 /Users/h0k00sn/IdeaProjects/RestFulWebApis/src/main/java/service/model/Email.java
+/Users/h0k00sn/IdeaProjects/RestFulWebApis/src/main/java/service/consumer/ConsumerServiceImpl.java
 /Users/h0k00sn/IdeaProjects/RestFulWebApis/src/main/java/service/model/HelloWorld.java
-/Users/h0k00sn/IdeaProjects/RestFulWebApis/src/main/java/app/HelloWorldResourceTest.java
 /Users/h0k00sn/IdeaProjects/RestFulWebApis/src/main/java/service/model/Phone.java
 /Users/h0k00sn/IdeaProjects/RestFulWebApis/src/main/java/service/lookup/LookupService.java
+/Users/h0k00sn/IdeaProjects/RestFulWebApis/src/main/java/service/consumer/ConsumerService.java

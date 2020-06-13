@@ -17,5 +17,5 @@ public interface ConsumerService {
 
     @Path("/insert")
     @POST
-    ServiceResponse<Order> insertOrder(Order order);
+    ServiceResponse<String> insertOrder(Order order);
 }
